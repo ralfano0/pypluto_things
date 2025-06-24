@@ -2,9 +2,6 @@
 # PLUTO simulation 3D initial condition
 # Author: Roberto Alfano
 
-# Copyright (c) 2025, Roberto Alfano
-# Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
-
 import os
 import sys
 import numpy as np
