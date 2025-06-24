@@ -1,5 +1,7 @@
 # Generate file with r coordinates (for later analysis)
 # Author: Roberto Alfano
+# Copyright (c) 2025, [TUO NOME]
+# Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
 
 ######################## imports ########################
 import os
