@@ -1,6 +1,6 @@
 # Make plots and animated plots from PLUTO simulations
 #Author: Roberto Alfano
-# Copyright (c) 2025, [TUO NOME]
+# Copyright (c) 2025, Roberto Alfano
 # Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
 
 import warnings
